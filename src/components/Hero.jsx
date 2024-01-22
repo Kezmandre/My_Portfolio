@@ -1,6 +1,6 @@
 import React from "react";
 import hero from "../assets/images/hero.png";
-import Typewriter from "./typewriter";
+import Typewriter from "./Typewriter";
 const Hero = () => {
   const social_media = [
     {
