@@ -7,10 +7,7 @@ const Hero = () => {
       logo:"logo-github",
       link:"https://github.com/Kezmandre"
     },
-    {
-      logo:"logo-facebook",
-      link : ""
-    },
+    
 
     {
       logo:"logo-linkedin",
@@ -19,7 +16,7 @@ const Hero = () => {
 
     {
       logo:"logo-twitter",
-      link:""
+      link:"https://twitter.com/@kezman_dre"
     },
 
     

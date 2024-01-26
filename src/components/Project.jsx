@@ -1,7 +1,7 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import project1 from "../assets/images/project-1.png";
-import project2 from "../assets/images/project-2.jpg";
+import project2 from "../assets/images/project_two.png";
 import project3 from "../assets/images/project-3.jpg";
 import project4 from "../assets/images/project-4.jpg";
 import project5 from "../assets/images/project-5.png";
@@ -14,14 +14,14 @@ const Project = () => {
   const projects = [
     {
       img: project1,
-      name: "Movie App",
-      github_link: "https://github.com/Sridhar-C-25",
-      live_link: "https://myreactflix.netlify.app",
+      name: "E-Commerce App",
+      github_link: "https://github.com/Kezmandre/electronic_commerce",
+      live_link: "https://e-commerce-app-7pb5.onrender.com",
     },
     {
       img: project2,
-      name: "Job search Web App",
-      github_link: "https://github.com/Sridhar-C-25/jobsearchapp",
+      name: "Client-side Linked App",
+      github_link: "https://github.com/Kezmandre/Linked-App",
       live_link: "https://myjobsearch.netlify.app",
     },
     {
