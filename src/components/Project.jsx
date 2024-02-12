@@ -2,9 +2,9 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import project1 from "../assets/images/project-1.png";
 import project2 from "../assets/images/project_two.png";
-import project3 from "../assets/images/project-3.jpg";
-import project4 from "../assets/images/project-4.jpg";
-import project5 from "../assets/images/project-5.png";
+import project3 from "../assets/images/project3.jpg";
+import project4 from "../assets/images/project4.jpg";
+
 import project_person from "../assets/images/project_person1.png";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -23,6 +23,19 @@ const Project = () => {
       name: "Client-side Linked App",
       github_link: "https://github.com/Kezmandre/Linked-App",
       live_link: "https://myjobsearch.netlify.app",
+    },
+    {
+      img: project3,
+      name:"E-Library",
+      github_link:"https://github.com/Kezmandre/E-Library",
+      live_link:"https://e-library-9k5c.onrender.com"
+    },
+
+    {
+      img:project4,
+      name:"Real Estate",
+      github_link:"https://github.com/Kezmandre/Real-Estate",
+      live_link:"https://real-estateins.netlify.app/"
     },
     
   ];
