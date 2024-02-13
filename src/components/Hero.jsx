@@ -11,7 +11,7 @@ const Hero = () => {
 
     {
       logo:"logo-linkedin",
-      link: ""
+      link: "https://www.linkedin.com/in/kazeem-quadri-419621256/"
     },
 
     {
