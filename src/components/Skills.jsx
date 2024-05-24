@@ -23,6 +23,11 @@ const Skills = () => {
       count: 80,
     },
     {
+      logo:"logo-nextjs",
+      level:"Next JS",
+      count:90
+    },
+    {
       logo: "logo-javascript",
       level: "JAVASCRIPT",
       count: 85,
